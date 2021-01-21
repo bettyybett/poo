@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608393531 source:c:\users\betty\desktop\moaca\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<stdio.h>
+	<string.h>
+
