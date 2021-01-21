@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1559037544 source:c:\users\betty\desktop\colocviu poo\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<string.h>
+
